@@ -15,7 +15,7 @@ const Hero = () => (
         Expand <br className="sm:block" />{" "} 
         <span className="text-gradient sm:absolute">Your Social</span><br className="sm:block hidden" /> {" "} 
         </h1>
-        <div className="ss:flex hidden md:mr-4 mr-0">
+        <div className="ss:flex hidden md:mr-4 mr-0 md:mb-10 mb-10">
             <GetStarted/>
         </div>
       </div>

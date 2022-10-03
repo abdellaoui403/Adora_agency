@@ -11,11 +11,11 @@ const GetStarted = () =>{
 
     },[])
     return(
-    <div className={`${styles.flexCenter} relative w-[160px] h-[160px]`}>
+    <div className={`${styles.flexCenter} relative w-[160px] h-[160px] ss:mb-0 mb-10`}>
         <img src={getStarted} ref={imgRef} className="absolute"/>
         <img src={arrowUp} alt="arrow" className="w-[50px] h-[50px] object-contain" />
     </div>
-    );
+    );s
 }
 
 export default GetStarted

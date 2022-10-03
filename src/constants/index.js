@@ -74,17 +74,17 @@ export const stats = [
   {
     id: "stats-1",
     title: "YEARS OF EXPERIENCE",
-    value: "4+",
+    value: 4 ,
   },
   {
     id: "stats-2",
     title: "SATISFIED CLIENTS",
-    value: "23+",
+    value: 23,
   },
   {
     id: "stats-3",
     title: "SUCCESS PROJECTS",
-    value: "98%",
+    value: 98,
   },
 ];
 

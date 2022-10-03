@@ -1,6 +1,6 @@
 import styles, {layout} from "../style";
 import { apple,bill, google } from "../assets";
-
+ 
 const Solution = () => (
     <section id="product" className={layout.sectionReverse}>
       <div className={layout.sectionImgReverse}>
@@ -11,7 +11,7 @@ const Solution = () => (
       </div>
 
       <div className={layout.sectionInfo}>
-      <h3 className="font-poppins text-[16px] uppercase text-gradient tracking-[10px] sm">Solution</h3>
+      <h3 className="font-poppins text-[16px] uppercase justify-center text-gradient tracking-[10px] sm">Solution</h3>
 
         <h2 className={styles.heading2}> Why Choose <br className="sm:block hidden"/>Us? </h2><br/>
         <p className={styles.paragraph}>We Provide Complete Solution For Your StartUp, Agency, Brand or Company. We Have More Than 24+ Satisfied Clients? We Are The Best Branding Solution.</p>

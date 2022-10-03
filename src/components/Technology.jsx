@@ -5,10 +5,10 @@ import {technology} from '../constants';
 const Technology = () => (
   <div>
     <section id="technology" className="flex justify-center items-center">
-            <div className="flex-row justify-center items-center">
-      <h3 className="font-poppins  text-[16px] flex justify-center uppercase text-gradient tracking-[10px] sm">TECHNOLOGY</h3>
-        <h2 className={`${styles.heading2} flex justify-center` }> Explore Our <br className="sm:hidden block"/>Methodology Of Work </h2><br/>
-        <p className={`${styles.paragraph} flex justify-center items-center text-center` }>Arcu tortor, purus in mattis at sed integer faucibus.  <br className="sm:block hidden"/>Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.</p>
+            <div className="flex-row sm:justify-center justify-start items-center">
+      <h3 className="font-poppins  text-[16px] flex sm:justify-center justify-start uppercase text-gradient tracking-[10px] sm">TECHNOLOGY</h3>
+        <h2 className={`${styles.heading2} flex sm:justify-center justify-start` }> Explore Our <br className="sm:hidden block"/>Methodology Of Work </h2><br/>
+        <p className={`${styles.paragraph} flex sm:justify-center justify-start items-center sm:text-center` }>Arcu tortor, purus in mattis at sed integer faucibus.  <br className="sm:block hidden"/>Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.</p>
       </div>
       </section>
        <section className={`${styles.flexCenter} container mx-auto py-12 px-8`}>
