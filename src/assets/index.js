@@ -28,10 +28,12 @@ import farlogo from "./farlogo.png";
 import alianlogo from "./alianlogo.png";
 import vochlogo from "./vochlogo.png";
 import ecore from "./ecore.png";
-import one from "./one.svg"
+import one from "./one.svg";
+import iconlogo from './iconlogo.svg'
 
 
 export {
+  iconlogo,
   one,
   vochlogo,
   ecore,
